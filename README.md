@@ -35,3 +35,7 @@ Next, I started implementing the code. I used the same format in the sample code
 
 • Remove Module
 `sudo rmmod cmpe283-1`
+
+Sample Output
+![image](https://user-images.githubusercontent.com/38390688/199393443-1f6ec9b0-c2e3-4a74-b386-3f1a1e9ebabc.png)
+
